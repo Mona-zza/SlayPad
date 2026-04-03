@@ -8,6 +8,8 @@ Currently JLPCB has a sale discount going in it so the PCB in screenshot is $2 c
 
 <img width="1448" height="953" alt="Screenshot 2026-04-02 005417" src="https://github.com/user-attachments/assets/40f38c1b-73de-4145-9285-994173ccac1b" />
 <img width="625" height="686" alt="Screenshot 2026-04-02 195057" src="https://github.com/user-attachments/assets/8d671ec0-6722-4532-9197-f4312ad8a251" />
+<img width="892" height="845" alt="Screenshot 2026-04-03 222303" src="https://github.com/user-attachments/assets/0f6071fe-62f0-490a-8227-a03c38a733e7" />
+<img width="915" height="929" alt="Screenshot 2026-04-03 222317" src="https://github.com/user-attachments/assets/197ece69-089f-4901-8feb-4f9cfa4da420" />
 <img width="658" height="706" alt="Screenshot 2026-04-03 205311" src="https://github.com/user-attachments/assets/ad68ebd4-ff4c-4fec-97d3-8043b229e24a" />
 <img width="665" height="719" alt="Screenshot 2026-04-03 205330" src="https://github.com/user-attachments/assets/c150b3b0-0603-4a45-9ae9-252ed8ed1c76" />
 <img width="733" height="714" alt="Screenshot 2026-04-03 205406" src="https://github.com/user-attachments/assets/f405f5d4-67b7-4058-b00a-02134ea15911" />
